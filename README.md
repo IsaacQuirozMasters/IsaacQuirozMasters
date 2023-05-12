@@ -1,7 +1,7 @@
 # Hi my name is Isaac Quiroz ✋ 
 ![https://github.com/IsaacQuirozMasters](https://github.com/IsaacQuirozMasters/IsaacQuirozMasters/blob/main/profile.png)
 
-Soy un chico que le gusta aprender cosas nuevas, siempre estoy aprendiendo cosas nuevas, la tecnologia ha venido a ser parte de mi dia a dia en el desarrollo de diferentes plataformas tanto paginas web como aplicaciones moviles.
+I am a boy who likes to learn new things, I am always learning new things, technology has become part of my daily life in the development of different platforms, both web pages and mobile applications.
 <!--
 **IsaacQuirozMasters/IsaacQuirozMasters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
