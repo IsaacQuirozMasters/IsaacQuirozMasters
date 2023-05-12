@@ -1,6 +1,5 @@
 #Hi my name is Isaac Quiroz ✋ 
-![https://github.com/IsaacQuirozMasters](https://raw.githubusercontent.com/IsaacQuirozMasters/IsaacQuirozMasters/blob/main/profile.png)
-https://github.com/IsaacQuirozMasters/IsaacQuirozMasters/blob/main/profile.png
+![https://github.com/IsaacQuirozMasters](https://github.com/IsaacQuirozMasters/IsaacQuirozMasters/blob/main/profile.png)
 
 <!--
 **IsaacQuirozMasters/IsaacQuirozMasters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
