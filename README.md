@@ -1,6 +1,7 @@
 # Hi my name is Isaac Quiroz ✋ 
 ![https://github.com/IsaacQuirozMasters](https://github.com/IsaacQuirozMasters/IsaacQuirozMasters/blob/main/profile.png)
 
+Soy un chico que le gusta aprender cosas nuevas, siempre estoy aprendiendo cosas nuevas, la tecnologia ha venido a ser parte de mi dia a dia en el desarrollo de diferentes plataformas tanto paginas web como aplicaciones moviles.
 <!--
 **IsaacQuirozMasters/IsaacQuirozMasters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
