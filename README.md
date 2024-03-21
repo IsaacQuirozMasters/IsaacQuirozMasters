@@ -1,5 +1,4 @@
 # Hi my name is Isaac Quiroz ✋ 
-![https://github.com/IsaacQuirozMasters](https://github.com/IsaacQuirozMasters/IsaacQuirozMasters/blob/main/profile.png)
 
 I am a boy who likes to learn new things, I am always learning new things, technology has become part of my daily life in the development of different platforms, both web pages and mobile applications.
 <!--
